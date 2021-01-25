@@ -37,3 +37,4 @@ gapminder_unfiltered %>%
 
 ```
 
+I think i have thgis fixed now
